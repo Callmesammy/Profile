@@ -3,7 +3,6 @@
 
 
 
-# Profile
 # Hi there 👋
 # 👂 My name is Samson Moses Imoh 
 
