@@ -22,9 +22,9 @@
     * Spring frame
     * MySql
 </details>
-#
+
 <img src="https://github-readme-stats.vercel.app/api?username=Callmesammy&show_icons=true"/>
-#
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Callmesammy"/>
 
 #
