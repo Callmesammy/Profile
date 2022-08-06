@@ -1,5 +1,5 @@
 
-![2022](https://user-images.githubusercontent.com/91014957/183244224-1e6571be-f73f-4240-b899-28ed35df8ac1.gif)
+
 ![giphy](https://user-images.githubusercontent.com/91014957/183244449-be1af68d-7d91-47ed-b67d-562939d5601c.gif)
 
 
