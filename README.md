@@ -1,7 +1,6 @@
 ![f073f1bdf9ff96b15b443563e45788dc](https://user-images.githubusercontent.com/91014957/183244678-0fcfab69-41dc-49ea-aded-cf712895f36c.gif)
 
 
-<
 
 # Hi there 👋
 # 👂 My name is Samson Moses Imoh 
@@ -13,7 +12,7 @@
 * 📫 How to reach me: callmesammy@yahoo.com
 * ❤️ I love to learn new things 
 * #
-details>
+<details>
     <summary><b>✨About Me </b></summary><br/>
    I'm passionate about working with like-minded people to advance the art of computer Engineering so that can we can realize the potential of Technology technology to empower better human collaboration.
 </details>
