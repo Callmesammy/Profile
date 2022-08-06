@@ -25,4 +25,4 @@
 #
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Callmesammy"/>
 #
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Callmesammy&repo=github_profile"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Callmesammy&repo=Callmesammy_profile"/>
