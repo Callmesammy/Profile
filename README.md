@@ -7,7 +7,9 @@
 </details>
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    Sample text
+    Sample *I'm passionate about working with like-minded people to advance the art of computer Engineering so that can we can realize the potential of Technology technology to empower better human collaboration.
+    * Spring frame
+    * MySql
 </details>
 
 # Profile
