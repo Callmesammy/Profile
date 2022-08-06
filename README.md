@@ -1,6 +1,5 @@
+![Animations_with_HTML5_2000x1100_v2-1](https://user-images.githubusercontent.com/91014957/183244564-de11cbf6-2f8d-4ac6-9a99-6555be822817.gif)
 
-
-![giphy](https://user-images.githubusercontent.com/91014957/183244449-be1af68d-7d91-47ed-b67d-562939d5601c.gif)
 
 
 # Profile
