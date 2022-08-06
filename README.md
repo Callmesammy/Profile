@@ -2,12 +2,12 @@
 
 
 <details>
-    <summary><b>✨About M ioe</b></summary><br/>
-    Sample text
+    <summary><b>✨About Me </b></summary><br/>
+   I'm passionate about working with like-minded people to advance the art of computer Engineering so that can we can realize the potential of Technology technology to empower better human collaboration.
 </details>
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    Sample *I'm passionate about working with like-minded people to advance the art of computer Engineering so that can we can realize the potential of Technology technology to empower better human collaboration.
+    * Java
     * Spring frame
     * MySql
 </details>
