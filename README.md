@@ -1,8 +1,16 @@
 ![f073f1bdf9ff96b15b443563e45788dc](https://user-images.githubusercontent.com/91014957/183244678-0fcfab69-41dc-49ea-aded-cf712895f36c.gif)
 
 
+<details>
+    <summary><b>✨About M ioe</b></summary><br/>
+    Sample text
+</details>
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    Sample text
+</details>
 
-
+# Profile
 # Hi there 👋
 # 👂 My name is Samson Moses Imoh 
 
