@@ -27,6 +27,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Callmesammy&show_icons=true&theme=dark"/>
 #
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Samson (Imoh) Moses/)
+
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
+
+https://img.shields.io/twitter/url?style=social
