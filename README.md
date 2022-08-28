@@ -3,7 +3,7 @@
 
 
 # Hi there 👋
-# 👂 My name is Samson Moses Imoh 
+# 👂 My name is Samson
 
 * 🔭 I’m currently working on Java Socket
 * 🌱 I’m currently learning MySql
